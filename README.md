@@ -1,0 +1,1 @@
+# Install-Trino-On-Ubuntu-22.04
